@@ -1,0 +1,26 @@
+<annotation>
+	<folder>calculator</folder>
+	<filename>calculator-4.jpg</filename>
+	<path>C:\Work\ML\Carina\Object-Detection\Object-Detection-Repo\workspace\images\AH-1-640x640\calculator\calculator-4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calculator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>183</ymin>
+			<xmax>458</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,8 @@
+item { 
+	name:'clearbackpack'
+	id:1
+}
+item { 
+	name:'calculator'
+	id:2
+}
